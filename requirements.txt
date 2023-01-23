@@ -1,0 +1,4 @@
+pycryptodome
+httpx
+json
+colorama
